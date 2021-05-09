@@ -1,0 +1,5 @@
+steps:
+    - label: ":hammer: Dir"
+      command: "dir"
+    - label: ":package: Package"
+      command: "echo hello" 
